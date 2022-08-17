@@ -1,0 +1,88 @@
+Before sort searching.....
+Searching for 'Wilson':
+Sequential search making 179 queries...
+
+Stephaine Wilson
+3717 Hamann Industrial Pky, San Francisco, CA 94104
+415-767-6596
+stephaine@cox.net
+
+
+Sequential search making 312 queries...
+
+Erin Wilson
+13 S Hacienda Dr, Livingston, NJ 07039
+973-767-3008
+erin.wilson@canlas.com
+
+
+Sequential search making 470 queries...
+
+Ryan Wilson
+13 Gunnison St, Plano, TX 75075
+972-558-1665
+ryan@cox.net
+
+
+
+Searching for 'Yoon':
+Sequential search making 500 queries...
+
+Not found.
+
+------ Before sorting: ----- 
+First entry is: 
+
+James Butt
+6649 N Blue Gum St, New Orleans, LA 70116
+504-621-8927
+jbutt@gmail.com
+
+Last entry is: 
+
+Chauncey Motley
+63 E Aurora Dr, Orlando, FL 32804
+407-413-4842
+chauncey_motley@aol.com
+
+----- After sorting: ----- 
+First entry is: 
+
+Johnetta Abdallah
+1088 Pinehurst St, Chapel Hill, NC 27514
+919-225-9345
+johnetta_abdallah@aol.com
+
+Last entry is: 
+
+Jerry Zurcher
+77 Massillon Rd #822, Satellite Beach, FL 32937
+321-518-5938
+jzurcher@zurcher.org
+
+After sort searching.....
+Searching for 'Wilson':
+Binary search making 485 queries...
+
+Erin Wilson
+13 S Hacienda Dr, Livingston, NJ 07039
+973-767-3008
+erin.wilson@canlas.com
+
+
+Binary search making 486 queries...
+
+Ryan Wilson
+13 Gunnison St, Plano, TX 75075
+972-558-1665
+ryan@cox.net
+
+
+Binary search making 487 queries...
+
+Stephaine Wilson
+3717 Hamann Industrial Pky, San Francisco, CA 94104
+415-767-6596
+stephaine@cox.net
+
+
