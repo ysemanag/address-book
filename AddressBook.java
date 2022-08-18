@@ -1,3 +1,10 @@
+/**
+ * Class that creates the address book.
+ * @author Yves Semana Gisubizo
+ * @version 1.0
+ * 
+ */
+
 import java.io.*;
 import java.util.*;
 
