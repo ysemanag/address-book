@@ -1,3 +1,11 @@
+/**
+ *  Class for testing the functions associated with the address book.
+ * 
+ * @author Yves Semana Gisubizo
+ * @version 1.0
+ * 
+ */
+
 public class TestAddressBook {
 
   public static void main(String args[]) {
