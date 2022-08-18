@@ -1,5 +1,7 @@
 /**
- *  This class defines an entry of an address book.
+ *  Class that defines an entry of an address book.
+ * @author Yves Semana Gisubizo
+ * @version 1.0
  */
 public class AddressBookEntry {
 
